@@ -2,10 +2,15 @@
 
 ## 1. martinet                       :       n. 严格执行纪律的人,主张服从命令的人
 If you say that someone is a martinet, you are criticizing them because they are very strict and demand that people obey their rules and orders.
-## 2. sycophant                      :       n. 谄媚者；奉承者 
-1. sykon                             :       fig
-    - sycophancy                  :     n. 谄媚；奉承；追随；拍马屁
-2. phanein                        :        to show
+
+## 2. sycophant : n. 谄媚者；奉承者
+A sycophant is a person who behaves in a sycophantic way.
+
+1. syco : fig
+    - sycophancy    : n. 谄媚；奉承；追随；拍马屁
+    - sycophantic   : adj.阿谀奉承的;谄媚的;拍马屁的
+    
+2. phan : to show
 
 ## 3. dilettante                     :       n. 业余爱好者；半吊子
 1. dilettare                        :   to delight 起初是褒义的
