@@ -1,17 +1,19 @@
 # How To Talk About Actions
 
-## 1. disparage        :  vt. 蔑视, 贬损
-1. dis-                 :            	negative prefix
-2. par                  :				equal
-	- pair              :               n.一对, 一双, 一副 （来自par）
-	- peer              :               n.同辈, 同等的人, 贵族 （同样来自par）
-	- parity 			:				n.	奇偶性; 平价，价值对等; 同等，平等;
-	- compare           :           	v.比较 （com-共同+par一致） 
-		1. con- com-    :               together，with     
-	- par                :              n.同等, 等位,常态, 票面价值, [体]标准杆数
-	- parity             :              n.相等, 势均力敌, 等值
-	- disparity          :            	n.不一致
-	- disparagement      :     			n. 轻视, 轻蔑, 贬低
+## 1. disparage : vt. 蔑视, 贬损
+1. dis- : negative prefix
+	- dislike : 不喜欢
+2. par  : equal
+	- pair          :       n. 一对, 一双, 一副 （来自par）
+	- peer          :       n. 同辈, 同等的人, 贵族 （同样来自par）
+	- parity 	:	n. 奇偶性; 平价，价值对等; 同等，平等;
+	- compare       :       v. 比较 （com-共同+par一致） 
+		- con-，com- : together，with     
+	- par                :          n.同等, 等位,常态, 票面价值, [体]标准杆数
+	- parity             :          n.相等, 势均力敌, 等值
+	- disparity          :          n.不一致
+	- parage	     :	        n.条件相等， 同等地位
+	- disparagement      :     	n.轻视, 轻蔑, 贬低
 
 
 ## 2. equivocate       :  vi. 说模棱两可的话, 支吾其词 
