@@ -9,3 +9,43 @@ issue 重要议题，（有关某事的）问题，发行，子女
 wiki 
 wiki 是一种提供[共同创作(collaborative)]环境的网站，也就是说，每个人都可以任意修改网站上的页面数据。(wiki-wiki 
 是夏威夷语里[快(quick)]的意思。)
+
+instance 例子， 实例；情况；要求，建议
+
+recommend 推荐，举荐
+
+propagate 繁衍， 增殖
+
+import 进口，输入
+
+summary 
+n.摘要， 概要，总结
+adj.概括的，总结的；即刻的，立即的
+
+metric ① 米制的，公制的 ② 按公制制作的，用公制测量的 ③ =metrical，格律的
+
+verbose 冗长的，啰唆的，唠叨的
+=long-winded
+
+discriminate v.歧视；区别
+discriminator n.辨别者，鉴别器
+
+family 家庭
+
+maximum 最大的
+
+unicast 单播，单一的源头发送到单一的目的接收者的一种网络服务。
+
+multicast 组播；多播，同时向一组选定的目的地传输数据的一种网络服务。
+
+broadcast 广播
+
+
+router 路由器
+border 边，边界
+boundary 分界线；范围
+
+## 合成词
+backbone 脊椎，支柱，骨干
+
+database 数据库
