@@ -1,8 +1,20 @@
 # Material 材料
 
+prefix 前缀
+
+ratio 
+rate
+
+entity n.实体,本质
+
 relay 接转，转送，播放，转播
 
 code 密码，代码，编码，法典
+
+origin n.起源，根源
+original adj.原始的；独创的；最初的；新颖的
+
+
 
 issue 重要议题，（有关某事的）问题，发行，子女
 
@@ -40,7 +52,7 @@ multicast 组播；多播，同时向一组选定的目的地传输数据的一�
 
 broadcast 广播
 
-
+route 路，路径，航线
 router 路由器
 border 边，边界
 boundary 分界线；范围
