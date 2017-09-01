@@ -1,15 +1,41 @@
 # Material 材料
 
-prefix 前缀
+## How to talk about network
+
+
+unicast 单播，单一的源头发送到单一的目的接收者的一种网络服务。
+
+multicast 组播；多播，同时向一组选定的目的地传输数据的一种网络服务。
+
+broadcast 广播
+
+route 路，路径，航线
+router 路由器
+
+tunnel n.隧道; v. 挖隧道
+
+relay 接转，转送，播放，转播
+
+code 密码，代码，编码，法典
+
+encapsulation  n.封装
+
+
+## How to talk about grammar
+
+grammar n.语法
+
+prefix n. 前缀
+
+
+
+import 进口，输入
 
 ratio 
 rate
 
 entity n.实体,本质
 
-relay 接转，转送，播放，转播
-
-code 密码，代码，编码，法典
 
 origin n.起源，根源
 original adj.原始的；独创的；最初的；新颖的
@@ -28,7 +54,6 @@ recommend 推荐，举荐
 
 propagate 繁衍， 增殖
 
-import 进口，输入
 
 summary 
 n.摘要， 概要，总结
@@ -46,14 +71,6 @@ family 家庭
 
 maximum 最大的
 
-unicast 单播，单一的源头发送到单一的目的接收者的一种网络服务。
-
-multicast 组播；多播，同时向一组选定的目的地传输数据的一种网络服务。
-
-broadcast 广播
-
-route 路，路径，航线
-router 路由器
 border 边，边界
 boundary 分界线；范围
 
