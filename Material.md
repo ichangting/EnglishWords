@@ -2,6 +2,9 @@
 
 ## How to talk about network
 
+quality of service (QoS) 
+
+autonomous system (AS) 
 
 unicast 单播，单一的源头发送到单一的目的接收者的一种网络服务。
 
@@ -14,11 +17,20 @@ router 路由器
 
 tunnel n.隧道; v. 挖隧道
 
+ingress
+
+validity
+
+
 relay 接转，转送，播放，转播
 
 code 密码，代码，编码，法典
 
 encapsulation  n.封装
+
+DoS（Denial of service）
+
+DDoS（Distributed Denial of service）
 
 
 ## How to talk about grammar
@@ -53,6 +65,11 @@ instance 例子， 实例；情况；要求，建议
 recommend 推荐，举荐
 
 propagate 繁衍， 增殖
+
+simplistic 过分简单化的
+
+clause
+
 
 
 summary 
