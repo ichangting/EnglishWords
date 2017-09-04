@@ -4,9 +4,9 @@
 1. dis- : negative prefix
 	- dislike : 不喜欢
 2. par  : equal
-	- pair          :       n. 一对, 一双, 一副 （来自par）
-	- peer          :       n. 同辈, 同等的人, 贵族 （同样来自par）
-	- parity 	:	n. 奇偶性; 平价，价值对等; 同等，平等;
+	- pair : n. 一对, 一双, 一副 （来自par）
+	- peer : n. 同辈, 同等的人, 贵族 （来自par）
+	- parity 	:	n. 奇偶性; 平价，价值对等; 同等，平等
 	- compare       :       v. 比较 （com-共同+par一致） 
 		- con-，com- : together，with     
 	- par                :          n.同等, 等位,常态, 票面价值, [体]标准杆数
@@ -18,103 +18,99 @@
 
 ## 2. equivocate       :  vi. 说模棱两可的话, 支吾其词 
 
-1. aequus-（equ-)         	: 			   	equal  
-	- equity              	:              	n.公平, 公正 
-	- equitable           	:              	adj.公平的, 公正的
-	- inequity            	:              	n.不公平, 不公正(in- + equ公平)
+1. aequus-（equ-) : equal  
+	- equity              	:              	n.公平, 公正 n.(公司的)资产净值，（公司的）普通股
+	- equitable           	:              	adj.公平的, 公正的
+	- inequity            	:              	n.不公平, 不公正(in- + equity公平)
 	- iniquitous          	:               adj.不正的, 不法的,邪恶的（in- 否定+equ中的e变为i ）
-		1. in- 				:				否定
-	- equinoctial           :	            adj.春分或秋分的（equi-相等+noctis 夜）  
-		1. nox,noctis       :	            night     夜晚
+		- in- 		    :		否定
+	- equinoctial           :	        adj.春分或秋分的（equi-相等+noctis 夜）  
+		- nox,noctis        :	        night   夜晚
 			- nocturnal     :               adj.在夜间的, （指生物）夜间活动的 
 			- nocturne     	:               n.夜曲, 夜景画
-	- equanimity     		:		        n.平静, 镇定（equ- 平衡+animus 心灵 ）
-		1. animus           :				mind   思维，心灵
-	- equability            :				n. 平静, 无变动 
+	- equanimity     	:		n.平静, 镇定（equ- 平衡+animus 心灵 ）
+		- animus            :		mind   思维，心灵
+	- equability            :		n.平静, 无变动 
 	- equilibrium           :   	        n.平衡, 均衡, 平静（equ- 相等+libra 重量 ）  
-		1. libra    	 	: 	            balance,weight,pound           平衡       
-	- equilateral           :			 	adj.等边的, 等面的（equ-相等+lateral 边） 
-		1. latus,lateris   	:  				side      边 
-2. vox，vocis               :			    voice       
-	- vociferous           	:				adj.喧哗的, 大叫大嚷的  
-		1. fero            	:	    		to bear,carry                          承担，携带	      
-	- vocalize              :				v. 发声(ize的意思是put into，所以vocalize就是put into voice）
-	- vocalist              :				n.声乐家, 歌手
-	- magnavox				:				玛格纳沃克斯（音响品牌）
-		1. magnus           :               large  
-3. ambi-                    :         		both
-	- ambiguous            	: 				adj.模棱两可的, 含糊不清的（ambi-双）
-	- double entendre       :  				带淫秽意味的双关语（法语读音）      
-4. -ate                    	:            	verb suffix
-5. equus(equ-)              :               马
-	- equine 				:				马的
+		- libra    	    : 	        balance,weight,pound 平衡       
+	- equilateral           :		adj.等边的, 等面的（equ-相等+lateral 边） 
+		- latus,lateris     :  	        side    边 
+2. vox，vocis : voice       
+	- vociferous           	:		adj.喧哗的, 大叫大嚷的  
+		- fero             :	        to bear,carry   承担，携带	      
+	- vocalize              :		v. 发声(-ize的意思是put into，所以vocalize就是put into voice）
+	- vocalist              :		n.声乐家, 歌手
+	- magnavox		:		玛格纳沃克斯（音响品牌）
+		- magnus           :            large  
+3. ambi- : both
+	- ambiguous            	: 		adj.模棱两可的, 含糊不清的（ambi-双）     
+4. -ate : verb suffix
+5. equus(equ-) : 马
+	- equine 		:		马的
 
 ## 3. titillate        :        v.使…觉得痒,挑逗, 刺激, 挠痒，触动
 
 ## 4. adulate          :    v.奉承
-1. ad- 					: 		to
-2. ul-					:		尾巴
+1. ad- 	: to
+2. ul-	: 尾巴
 	- adulation         : 		n. 奉承；谄媚                       
 	- adulatory         :     	adj. 阿谀的，奉承的；谄媚的
 
-## 5. proscribe        :   v.禁止,放逐,排斥,剥夺…的公权
-1. pro						: 		before
-2. scribo,scriptus 			:	 	to write
-	- postscript			:		附笔
-		1. post 			: 		after
+## 5. proscribe        :   v.禁止,放逐,排斥,剥夺……的公权
+1. pro	: before
+2. scribo,scriptus 	:	 to write
+	- postscript				:		附笔
+		- post 				: 		after
 	- scribe				:		抄写员，作者
 	- scribble				:		乱画，匆忙的写
 	- prescribe				:		处方，嘱咐
 	- describe				:	 	to write down
-		1. de- 				:		down
+		- de- 				:		down
 	- subscribe				:	 	订阅 to write one's name under an order or contract
-		1. sub- 			: 		under
+		- sub- 			: 		under
 			- subway		:		地铁
 			- submarine		:		潜水艇
-			- subsurface	:		adj.	表面下的，地下的;
+			- subsurface		:		adj.表面下的，地下的;
 	- script 				:		脚本，剧本
-	- manuscript			:		手写
+	- manuscript				:		手写
 		1. manus 			:	 	hand 手
-	- typescript			:		打印稿
+	- typescript				:		打印稿
 	- inscribe				: 		刻写
 		1. in-				: 		in,into
 
-
 ## 6. militate         :      v.发生作用, 有影响
 1. militis                       	:          	soldier 
-	- militant                   	:			adj. 好战的  n. 富有战斗性的人；好斗者                 
-	- militancy                  	:			n.	战斗性，交战状态;
-	- military						:			n.军队
-	- militia						:			民兵组织
+	- militant                   	:		adj. 好战的  n. 富有战斗性的人；好斗者                 
+	- militancy                  	:		n.战斗性，交战状态;
+	- military			:		n.军队
+	- militia			:		民兵组织
 
 ## 7. malign           :    v.诽谤, 中伤, 说坏话 adj.有害的,恶性的, 有恶意的 
-1. malus								: 		bad
-	- malign                    		:		vt. 诽谤 adj. 恶意的                  
-	- militate                  		:		vi. 有影响；产生作用（接against，而且不能对人
-	- malediction            			:		n. 坏话，诅咒（malus 坏+dict 说+tion）
-		1. dico，dictus         			:     	to say，tell      
-			- predic					:		预测
-			- dictatorial       		:       adj. 独裁的，专政的（dict 说+or 人+al）
-			- contradict				:		反驳，驳斥; 否认，矛盾
-				1. contra- 				: 		against,opposite
-			- addiction					:		上瘾
-				1. ad- 					: 		to ,toward                         
-	- malevolent             			:		adj.有恶意的；坏心肠的（malus 坏+volo 希望+ent）         
-		1. volo                 		: 	    to wish           
-			- voluntary         		:          
-			- volition          		:       n. 意志，意志力；决断力                              
-	- maleficent              			:		adj. 有害的；犯罪的；做坏事的（malus 坏+fic 做+ent） 
-		1. facio（fec-，fic，fy,-fy）    :    	to make
-			- factory					:		工厂
-			- fiction					:		小说，编造
-			- manufacture				:		制造
-			- clarify					:		vt.	使清楚，澄清;
+1. malus					: 		bad
+	- malign                    		:		vt. 诽谤，中伤 adj. 有害的；引起伤害的                  
+	- militate                  		:		vi. 有影响；产生作用（接against，而且不能对人
+	- malediction            		:		n. 坏话，诅咒（malus 坏+dict 说+tion）
+		- ico，dictus         		:     	to say，tell      
+			- predict			:	v.预言，预告
+			- dictatorial       		:       adj. 独裁的，专政的（dict 说+or 人+al）
+			- contradict			:	反驳，驳斥; 否认，矛盾(contra- :against,opposite)
+			- addiction			:	上瘾(ad-,to,toward)                
+	- malevolent             		:		adj.有恶意的；坏心肠的（malus 坏+volo 希望+ent）         
+		- volo               		: 	to wish           
+			- voluntary         		:       adj.自愿的，志愿的，自发的
+			- volition          		:       n. 意志，意志力；决断力                            
+	- maleficent              		:		adj. 有害的；犯罪的；做坏事的（malus 坏+fic 做+ent） 
+		- facio（fec-，fic，fy,-fy）    :    	to make
+			- factory			:		工厂
+			- fiction			:		小说，编造
+			- manufacture			:		制造
+			- clarify			:		vt.	使清楚，澄清;
 	- malefactor              			:		n. 作恶者；罪犯；坏人（malus 坏+fic 做+or人） 
 	- maladroitness        				:		adj.不熟练的（malus坏+adroit 右手，熟练+ness）
 	- malaise                  			:		n. 不舒服；心神不安     
-	- malicious	   						:			adj.	恶意的，有敌意的;
-	- malice   							:			n.	怨恨; 恶意，恶感; [法] 预谋; 祸心;
-	- malady   							:			n.	疾病; 病症, 弊病，弊端; 弊害
+	- malicious	   				:		adj.恶意的，有敌意的;
+	- malice   					:		n.怨恨; 恶意，恶感; [法] 预谋; 祸心;
+	- malady   					:		n.疾病; 病症, 弊病，弊端; 弊害
 	- maladjusted   					:			adj.	失调的，不适应环境的
 	- malcontent   						:			n.	不满者;
 	- malpractice   					:			n.	弊端; <律>玩忽职守; 
