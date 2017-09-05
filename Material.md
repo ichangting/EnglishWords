@@ -15,6 +15,15 @@ broadcast 广播
 route 路，路径，航线
 router 路由器
 
+
+Active：激活的
+Inactive：非激活的
+
+stale
+
+hexadecimal
+
+
 tunnel n.隧道; v. 挖隧道
 
 ingress
