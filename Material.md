@@ -70,7 +70,8 @@ simplistic 过分简单化的
 
 clause
 
-
+Consumer：使用者
+Producer：生产者
 
 summary 
 n.摘要， 概要，总结
