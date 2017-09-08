@@ -46,6 +46,9 @@ DDoS（Distributed Denial of service）
 
 grammar n.语法
 
+parse （对句子）作语法分析，作句法分析
+
+
 prefix n. 前缀
 
 
@@ -103,5 +106,7 @@ boundary 分界线；范围
 
 ## 合成词
 backbone 脊椎，支柱，骨干
+
+sidebar （报纸或杂志的）花絮报道，（网页的）边注栏
 
 database 数据库
