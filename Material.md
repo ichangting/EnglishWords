@@ -15,7 +15,6 @@ broadcast 广播
 route 路，路径，航线
 router 路由器
 
-
 Active：激活的
 Inactive：非激活的
 
@@ -110,3 +109,9 @@ backbone 脊椎，支柱，骨干
 sidebar （报纸或杂志的）花絮报道，（网页的）边注栏
 
 database 数据库
+
+
+draw drew drawn  
+withdraw withdrew withdrawn
+
+
