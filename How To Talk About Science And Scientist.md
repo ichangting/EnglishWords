@@ -1,33 +1,32 @@
 # How To Talk About Science And Scientist
 
-
 ## 1. anthropologist  : 人类学家
 
 1. anthropos                      	: 人类 mankind
 	- anthropology               	: 人类学（人类+科学）
-2. logos                           	:	科学，研究 science，study 文字 word
+2. logos                           	: science, study 科学，研究; word 文字 
 
 ## 2. astronomer      :  天文学家
 
-1. astron                          	: 	星星 star
-	- astronomer                  	:	天文学家（星星+秩序)
-	- astrology                     : 	占星学（星星+科学）
-	- astronaut                     :	宇航员（星星+水手）
-	- cosmonaut                   	:	宇航员（宇宙+水手）
-		1. cos                      :	宇宙 universe
-	- asterisk                      : 	星号
-	- disaster                      :	灾难（反+星星=星星站在你的对立面，于是就有灾难）
-		1. dis-                  	:   反 against
-2. nautes                           : 	水手 sailor
-3. naus                             :	船 ship
-	- nautical                      :	海上的, 航海的, 船员的
+1. astron                          	: 星星 star
+	- astronomer                  	: 天文学家（星星+秩序)
+	- astrology                     : 占星学（星星+科学）
+	- astronaut                     : 宇航员（星星+水手）
+	- cosmonaut                   	: 宇航员（宇宙+水手）
+		- cos-                  : 宇宙 universe
+	- asterisk                      : 星号
+	- disaster                      : 灾难（反+星星=星星站在你的对立面，于是就有灾难）
+		- dis-                  : 反 against
+2. nautes                           	: 水手 sailor
+3. naus                             	: 船 ship
+	- nautical                      : 海上的, 航海的, 船员的
 
 ## 3. geologist      :    地质学家
 
-1. ge（geo-）        :          土地 earth
-	- geology        :         地质学家（土地+学科）
-	- geometry       :         几何（土地+测量）
-	- geography      :         地理（土地+画）
+1. ge（geo-）			:          土地 earth
+	- geology        		: 地质学家（土地+学科）
+	- geometry       		: 几何（土地+测量）
+	- geography      		: 地理（土地+画）
 2. graphein          :         写 to write
 
 
