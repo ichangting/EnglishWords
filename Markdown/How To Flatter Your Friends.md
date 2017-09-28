@@ -2,14 +2,14 @@
 
 ## 1. convivial : （气氛或性格）欢快友好的
 
-1. viv : to live 
+### 1. viv : to live 
   - vivacious : adj. 活泼的；快活的；有生气的
   - vivid : adj. 生动的；鲜明的；鲜艳的
   - revive : vi. 复兴；复活；苏醒；恢复精神
   - vivisection : n. 活体解剖
   - viviparous : adj.胎生的
 
-2. con- : together
+### 2. con- : together
 
 3. ovum            	: 		egg    
   - oviparous    	: 		adj. [动] 卵生的；产卵的
