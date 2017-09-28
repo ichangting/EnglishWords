@@ -1,14 +1,15 @@
 # How To Flatter Your Friends
 
 ## 1. convivial : （气氛或性格）欢快友好的
+
 1. viv : to live 
   - vivacious : adj. 活泼的；快活的；有生气的
-  - vivid :  adj. 生动的；鲜明的；鲜艳的
-  - revive:               vi. 复兴；复活；苏醒；恢复精神
-  - vivisection:               n. 活体解剖
-  - viviparous  :               胎生的
-2. con-            :               together
+  - vivid : adj. 生动的；鲜明的；鲜艳的
+  - revive : vi. 复兴；复活；苏醒；恢复精神
+  - vivisection : n. 活体解剖
+  - viviparous : adj.胎生的
 
+2. con- : together
 
 3. ovum            	: 		egg    
   - oviparous    	: 		adj. [动] 卵生的；产卵的
@@ -26,17 +27,17 @@
       - joie de vivre :    n. （法）生活乐趣
         - bon vivant    :（法）讲究美食及生活享受的人
 
-        ## 2.indefatigable :不知疲倦的
+## 2.indefatigable :不知疲倦的
 
-      1. in-          : negative prefix
+1. in-          : negative prefix
         - fatigue   :  		n. 疲劳，疲乏；杂役，adj. 疲劳的，vt. 使疲劳；使心智衰弱
         - ingenuous    :     adj. 天真的；坦白的；正直的；朴实的
           - ingenious   :adj. 有独创性的；机灵的，精制的；心灵手巧的
           - disingenuous  : adj. 虚伪的；不诚实的；不老实的；狡猾的
 
-      2. credo       :     to believe
-      - credulous   :    adj. 轻信的；因轻信而产生的
-    - credit        :     n. 信用，信誉；[金融] 贷款；学分；信任；声望
+2. credo       :     to believe
+  - credulous   :    adj. 轻信的；因轻信而产生的
+  - credit        :     n. 信用，信誉；[金融] 贷款；学分；信任；声望
   - credible      :       adj. 可靠的，可信的
   - incredible    :       adj. 难以置信的，惊人的
     - credo        :       n. 信条，教义
@@ -46,7 +47,7 @@
     - gullible      :     adj. 易受骗的；轻信的
   3. -able            :   able to be
 
-    ## 3. perspicacious :有洞察力的，聪颖的
+## 3. perspicacious :有洞察力的，聪颖的
 
     1. per              	:   through
       - perspicuous   	:    adj. 明了的；清晰明白的；易懂的
@@ -63,7 +64,7 @@
           - circumspect   :adj. 细心的，周到的；慎重的
           1. circum-      :  around
 
-        ## 4. magnanimous:心胸宽广的
+## 4. magnanimous:心胸宽广的
         1. anima           :pirit
         2. animus          : mind
       - magnanimous       : adj. 宽宏大量的；有雅量的；宽大的
@@ -74,27 +75,24 @@
           - animus       :      n. 敌意；意图；基本态度；女性的男性意向
           - animosity    :      n. 憎恶，仇恨，敌意
           3. magnus     :    large
-
-
-
-​      
+      
 ## 5. versatile 		:	多才多艺的
 
 1. verto，versus    	: 		to turn
 
-  ## 6.stoical 		:		坚韧的
+## 6.stoical 		:		坚韧的
   1. stoa               :	    porch
 
-    ## 7.intrepid 	:		勇敢的
+## 7.intrepid 	:		勇敢的
     1. in-             :		negative prefix
       2. trepido           :to tremble
 
-      ## 8. scintillating :才华横溢
+## 8. scintillating :才华横溢
 
     2. scintilla           :  a spark
-
-      ## 9. urbane :		彬彬有礼的
-      1. urbs              :  city
+    
+## 9. urbane :		彬彬有礼的
+1. urbs              :  city
         - suburban        : adj. 郊区的，城郊的；土气的；见闻不广的
     3. sub-         :       near,under,close to
       - interurban      :     n. 市间铁路 adj. 都市间的
